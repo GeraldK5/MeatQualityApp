@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54579387475",
+    "project_id": "mqis-395b4",
+    "storage_bucket": "mqis-395b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54579387475:android:4bd2b15815c65630b03aa6",
+        "android_client_info": {
+          "package_name": "com.example.finalyear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjRhJSUsqY8J6mLNH0FpVmxPHbfVIF8wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54579387475:android:3209bfeb4f84d5b2b03aa6",
+        "android_client_info": {
+          "package_name": "com.mqis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjRhJSUsqY8J6mLNH0FpVmxPHbfVIF8wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
