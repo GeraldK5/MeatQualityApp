@@ -1,8 +1,6 @@
 import 'dart:async';
 import 'package:camera/camera.dart';
-import 'firebase_options.dart';
 import 'package:finalyear/home.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
 
@@ -11,9 +9,6 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   cameras = await availableCameras();
   
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
-  );
   runApp(const MyApp());
 }
 
